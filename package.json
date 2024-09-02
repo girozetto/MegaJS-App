@@ -1,0 +1,23 @@
+{
+  "name": "megajs-app",
+  "version": "1.0.0",
+  "description": "Mega client App for handling accounts and files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mega",
+    "Javascript",
+    "Files",
+    "Cloud",
+    "Upload",
+    "Download"
+  ],
+  "author": "GiroZetto",
+  "license": "ISC",
+  "dependencies": {
+    "megajs": "^1.3.0"
+  }
+}
